@@ -26,6 +26,9 @@ The analysis covers 2014–2017 data and explores sales, profit margins, regiona
 
 ### **Dashboard Preview**
 
+<img width="1156" height="650" alt="Screenshot 2025-10-27 181412" src="https://github.com/user-attachments/assets/e90c43cb-1473-44ed-9c0d-4a1aa2563829" />
+<img width="1156" height="653" alt="Screenshot 2025-10-27 181434" src="https://github.com/user-attachments/assets/c7074857-48c3-45d2-a5cc-77f19031d3b9" />
+
 link: https://app.powerbi.com/view?r=eyJrIjoiZmRlMTJhNzgtZWI2OC00ZjEyLTlkOTctYzY0ZGM4MDQ4MzA0IiwidCI6IjRjNTA1MDBhLTVmNDctNDMwNS05MGRkLWZkYTk4ODhjNjIzZSJ9
 
 ### **Repository Structure**
